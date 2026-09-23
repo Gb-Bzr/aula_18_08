@@ -1,0 +1,11 @@
+Questão 5
+
+O texto não está sendo centralizado verticalmente porque o código usa apenas justifyContent: 'center'. Como o flexDirection padrão do React Native é 'column', justifyContent centraliza no eixo vertical. Porém, para centralizar o conteúdo também no eixo horizontal, é necessário usar alignItems: 'center'.
+
+Correção:
+
+container: {
+  flex: 1,
+  justifyContent: 'center',
+  alignItems: 'center',
+}

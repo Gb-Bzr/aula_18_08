@@ -1,0 +1,5 @@
+Questão 3
+
+Resposta: B
+
+Props são passadas de um componente pai para um componente filho e, no componente que as recebe, são tratadas como imutáveis. O useState é usado para gerenciar o estado interno do componente, podendo ser atualizado pela função setter.

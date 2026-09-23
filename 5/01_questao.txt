@@ -1,0 +1,5 @@
+Questão 1
+
+Resposta: B
+
+Em React Native, os componentes renderizam elementos nativos da plataforma, enquanto o React para Web renderiza elementos HTML.

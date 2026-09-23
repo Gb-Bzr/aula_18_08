@@ -1,0 +1,5 @@
+Questão 2
+
+Resposta: B — justifyContent
+
+No Flexbox do React Native, justifyContent é usada para distribuir os itens ao longo do eixo principal.

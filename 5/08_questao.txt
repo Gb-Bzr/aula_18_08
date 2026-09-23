@@ -1,0 +1,28 @@
+Questão 8
+
+Produto 1 — Notebook:
+- Preço: R$ 2975.00
+- Preço original: R$ 3500.00, exibido riscado por existir desconto de 15%
+- Situação: ✔ EM ESTOQUE
+- Estoque: 8 unidades
+- Fundo: branco
+- Borda: #ddd
+- Cor do preço: #4caf50
+
+Produto 2 — Smartphone:
+- Preço: R$ 2000.00
+- Não aparece preço original riscado, pois não há desconto
+- Situação: ✔ EM ESTOQUE
+- Estoque: 25 unidades
+- Fundo: branco
+- Borda: #ddd
+- Cor do preço: #333
+
+Produto 3 — Fone de Ouvido:
+- Preço: R$ 135.00
+- Preço original: R$ 150.00, exibido riscado por existir desconto de 10%
+- Situação: ✖ SEM ESTOQUE
+- Estoque: 0 unidades
+- Fundo: #ffccd2
+- Borda: #ff9800
+- Cor do preço: #4caf50

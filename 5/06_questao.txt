@@ -1,0 +1,7 @@
+Questão 6
+
+Ao clicar uma vez no botão "Atualizar", será exibido:
+
+Mundo!
+
+O estado mensagem começa com "Olá". Quando o botão é pressionado, a função atualizarMensagem é executada e chama setMensagem('Mundo!'). O React atualiza o estado e renderiza novamente o componente, mostrando "Mundo!".
